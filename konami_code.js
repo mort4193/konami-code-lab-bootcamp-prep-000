@@ -14,10 +14,8 @@ var handler = document.body.addEventListener('keydown', function(e){
   } else {
     index = 0;
   })
-// Write your JavaScript code inside the init() function
 
+}
 }
 
 
-
-// This is the function that would be invoked by the event listener.
