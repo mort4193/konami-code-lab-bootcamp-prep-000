@@ -12,7 +12,7 @@ const v = document.body.addEventListener('keydown', function init(e) {
     }
   } else {
     index = 0;
-  })
+  }
 // Write your JavaScript code inside the init() function
 
 }
