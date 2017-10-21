@@ -17,5 +17,3 @@ var handler = document.body.addEventListener('keydown', function(e){
 
 }
 }
-
-
